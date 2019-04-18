@@ -27,6 +27,6 @@ You may use this Postman collection below to test routes.
 
 #
 
-If you would like to see another application I'm working on with routes and services, please take a look at [The Ends  - Ecommerce Backend](https://github.com/Ceejaymar/TheEnds-ecommerce-backend).
+If you would like to see another application I'm working on with more routes and services, please take a look at [The Ends  - Ecommerce Backend](https://github.com/Ceejaymar/TheEnds-ecommerce-backend).
 
 Thank you! 
