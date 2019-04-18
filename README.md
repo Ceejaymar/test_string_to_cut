@@ -1,4 +1,4 @@
-## [Hosted Test Server](http://reactor-cm.surge.sh/ "Test Server")
+# Lyft test server
 
 ## Routes
 - `GET /`       : Welcome message.
@@ -6,6 +6,7 @@
 - `POST /test/` : Returns cut string. 
 
 ## Use hosted server
+### [Hosted Test Server](http://reactor-cm.surge.sh/ "Test Server")
 
 
 
@@ -24,6 +25,7 @@ You may use this Postman collection below to test routes.
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/7b288ee224520e662a93)
 
+#
 
 If you would like to see another application I'm working on with routes and services, please take a look at [The Ends  - Ecommerce Backend](https://github.com/Ceejaymar/TheEnds-ecommerce-backend).
 
