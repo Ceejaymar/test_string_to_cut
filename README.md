@@ -10,9 +10,9 @@
 
 You may use a cURL command to test the routes.
 
-- `GET /`: `curl -X GET https://lyft-test-server.herokuapp.com/test/`
+- `GET /`: `curl -X GET https://lyft-test-server.herokuapp.com/`
 
-- `GET /test/`: `curl -X GET https://lyft-test-server.herokuapp.com/`
+- `GET /test/`: `curl -X GET https://lyft-test-server.herokuapp.com/test/`
 
 - `POST /test/` : `curl -X POST https://lyft-test-server.herokuapp.com/test/ --data '{"string_to_cut": "iamyourlyftdriver"}' -H 'Content-Type: application/json'`
 
