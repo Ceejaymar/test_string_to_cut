@@ -6,8 +6,15 @@
 - `POST /test/` : Returns cut string. 
 
 ## Use hosted server
-### [Hosted Test Server](http://reactor-cm.surge.sh/ "Test Server")
+### [Hosted Test Server](https://lyft-test-server.herokuapp.com "Test Server")
 
+You may use a cURL command to test the routes.
+
+`GET /`: curl -X GET https://lyft-test-server.herokuapp.com/test/
+
+`GET /`: curl -X GET https://lyft-test-server.herokuapp.com/
+
+`POST /test/` : curl -X POST https://lyft-test-server.herokuapp.com/test/ --data '{"string_to_cut": "iamyourlyftdriver"}' -H 'Content-Type: application/json'
 
 
 ## Use local server
