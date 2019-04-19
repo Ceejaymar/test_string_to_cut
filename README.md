@@ -1,4 +1,5 @@
 # Lyft test server
+A simple app that takes in a string and returns another string with every third letter of the the original string.
 
 ## Routes
 - `GET /`       : Welcome message.
